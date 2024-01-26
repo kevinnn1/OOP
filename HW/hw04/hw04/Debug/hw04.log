@@ -1,0 +1,39 @@
+﻿  hw04.cpp
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(18,25): error C2079:  'art' uses undefined class 'Noble'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(18,26): error C2440:  'initializing': cannot convert from 'const char [12]' to 'int'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(18,11): message :  There is no context in which this conversion is possible
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(19,31): error C2079:  'lance' uses undefined class 'Noble'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(19,32): error C2440:  'initializing': cannot convert from 'const char [16]' to 'int'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(19,13): message :  There is no context in which this conversion is possible
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(20,17): error C2079:  'jim' uses undefined class 'Noble'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(20,18): error C2440:  'initializing': cannot convert from 'const char [4]' to 'int'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(20,11): message :  There is no context in which this conversion is possible
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(21,30): error C2079:  'linus' uses undefined class 'Noble'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(21,31): error C2440:  'initializing': cannot convert from 'const char [15]' to 'int'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(21,13): message :  There is no context in which this conversion is possible
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(22,27): error C2079:  'billie' uses undefined class 'Noble'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(22,28): error C2440:  'initializing': cannot convert from 'const char [11]' to 'int'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(22,14): message :  There is no context in which this conversion is possible
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(29,30): error C2079:  'cheetah' uses undefined class 'Warrior'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(29,31): error C2440:  'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(29,17): message :  The initializer contains too many elements
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(30,29): error C2079:  'wizard' uses undefined class 'Warrior'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(30,30): error C2440:  'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(30,16): message :  The initializer contains too many elements
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(31,35): error C2079:  'theGovernator' uses undefined class 'Warrior'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(31,36): error C2440:  'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(31,23): message :  The initializer contains too many elements
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(32,27): error C2079:  'nimoy' uses undefined class 'Warrior'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(32,28): error C2440:  'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(32,15): message :  The initializer contains too many elements
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(33,28): error C2079:  'lawless' uses undefined class 'Warrior'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(33,29): error C2440:  'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(33,17): message :  The initializer contains too many elements
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(34,27): error C2079:  'mrGreen' uses undefined class 'Warrior'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(34,28): error C2440:  'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(34,17): message :  The initializer contains too many elements
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(35,29): error C2079:  'dylan' uses undefined class 'Warrior'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(35,30): error C2440:  'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(35,15): message :  The initializer contains too many elements
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(161,50): warning C4244:  'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw04\hw04\hw04.cpp(175,68): warning C4244:  'argument': conversion from 'double' to 'const int', possible loss of data

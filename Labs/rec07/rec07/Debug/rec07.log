@@ -1,0 +1,10 @@
+﻿  course.cpp
+  rec07.cpp
+C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec07\rec07\student.h(4,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  registrar.cpp
+C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec07\rec07\student.h(4,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  student.cpp
+C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec07\rec07\student.h(4,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec07\rec07\student.h(4,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  rec07.vcxproj -> C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec07\Debug\rec07.exe

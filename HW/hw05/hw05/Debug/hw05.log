@@ -1,0 +1,4 @@
+﻿  hw05.cpp
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw05\hw05\hw05.cpp(127,49): warning C4244:  'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw05\hw05\hw05.cpp(142,67): warning C4244:  'argument': conversion from 'double' to 'const int', possible loss of data
+  hw05.vcxproj -> C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw05\Debug\hw05.exe

@@ -1,0 +1,6 @@
+﻿  rec08.cpp
+  Polynomial.cpp
+C:\Users\kevin\Desktop\School\Fall 2019\Object Oriented Programming\HW\hw08\hw08\hw08\Polynomial.cpp(39,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kevin\Desktop\School\Fall 2019\Object Oriented Programming\HW\hw08\hw08\hw08\Polynomial.cpp(110,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  hw08.vcxproj -> C:\Users\kevin\Desktop\School\Fall 2019\Object Oriented Programming\HW\hw08\hw08\Debug\hw08.exe

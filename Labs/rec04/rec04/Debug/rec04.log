@@ -1,0 +1,4 @@
+﻿  rec04.cpp
+C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec04\rec04\rec04.cpp(164,7): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec04\rec04\rec04.cpp(79): warning C4715:  'Amplifier::attachSpeakers': not all control paths return a value
+  rec04.vcxproj -> C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec04\Debug\rec04.exe

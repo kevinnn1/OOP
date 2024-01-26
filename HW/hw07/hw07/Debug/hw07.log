@@ -1,0 +1,6 @@
+﻿  Noble.cpp
+  Protector.cpp
+  hw07.cpp
+  Generating Code...
+C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw07\hw07\Noble.cpp(131,5): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+  hw07.vcxproj -> C:\Users\kevin\Desktop\School\Object Oriented Programming\HW\hw07\Debug\hw07.exe

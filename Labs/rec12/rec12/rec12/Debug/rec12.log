@@ -1,0 +1,12 @@
+﻿  rec12.cpp
+C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec12\rec12\rec12\rec12.cpp(177,14): warning C4240:  nonstandard extension used: access to 'List::Node' now defined to be 'private', previously it was defined to be 'public'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec12\rec12\rec12\rec12.cpp(23): message :  see declaration of 'List::Node'
+C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec12\rec12\rec12\rec12.cpp(16,24): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec12\rec12\rec12\rec12.cpp(169,24): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec12\rec12\rec12\rec12.cpp(212,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec12\rec12\rec12\rec12.cpp(284,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec12\rec12\rec12\rec12.cpp(287,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec12\rec12\rec12\rec12.cpp(289,23): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec12\rec12\rec12\rec12.cpp(109): warning C4715:  'List::operator[]': not all control paths return a value
+C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec12\rec12\rec12\rec12.cpp(124): warning C4715:  'List::operator[]': not all control paths return a value
+  rec12.vcxproj -> C:\Users\kevin\Desktop\School\Object Oriented Programming\Labs\rec12\rec12\Debug\rec12.exe
